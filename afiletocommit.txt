@@ -2,7 +2,3 @@ Hello fellow Git users.
 I hope you're all well.
 I really do.
 
-Sorry about the other line.
-How are you?
-What is your name?
-What is your favourite citrus fruit?
