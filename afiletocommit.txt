@@ -1,4 +1,5 @@
 Hello fellow Git users.
-I'd like to leave this line out of the repository.
 I hope you're all well.
 I really do.
+
+Sorry about the other line.
